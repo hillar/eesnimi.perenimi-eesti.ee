@@ -1,6 +1,25 @@
 # eesnimi.perenimi @ eesti.ee
 
 WIP
+------------
+
+
+`On 8. Jun 2023, at 07:14, Hillar Aarelaid <hillar@aarelaid.net> wrote:`
+
+
+
+
+Hr Margus Noormaa
+
+> On 6. Jun 2023, at 15:53, delta@ria.ee wrote:
+> Tänase informatsiooni ja järelduste pinnalt ei ole võimalik RIA-l jätkata eesnimi.perekonnanimi@eesti.ee e-posti aadressi pakkumist juba kirjeldatud põhjustel. 
+
+
+Kas RIA oleks nõus eesti.ee MX kirje muutmisega, et sellega suunata eesnimi.perekonnanimi@eesti.ee e-posti aadress ümber loodavale mittetulundusühingule, mille eesmärgiks on luua igaühele  üks kindel ja ajas püsiv kontaktaadress osana digitaalsest identiteedist. 
+
+Hillar Aarelaid
+
+
 
 
 ------------
